@@ -20,7 +20,7 @@ The purpose of this project was to determine how many employees would be retirin
 
 - The mentorship_eligibility.csv shows that most of the eligilbe employees hold a senior title. 
 
-![](mentorship_eligibilty.png)
+![](Data/mentorship_eligibilty.png)
 
 ## Summary
 
