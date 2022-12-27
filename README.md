@@ -24,3 +24,5 @@ The purpose of this project was to determine how many employees would be retirin
 
 ## Summary
 
+In summary, the company will need to find a way to fill about 70 percent of the vacant positions that will be left by the retiring workforce in the next few years. Acting on this will alleviate the impact of the “silver tsunami” situation. If the company can find ways to attract and train the younger generations of workers then the effect would be considerably less to manage. Right now there appears to be enough talent and knowledge to mentor the incoming and internal younger workers.
+
